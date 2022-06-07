@@ -1,0 +1,17 @@
+.divone{
+    background-color: aqua;
+    width: 1900px;
+    height: 300px;
+}
+
+.divtwo{
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+}
+
+.divthree{
+    background-color: blueviolet;
+    width: 1000px;
+    height: 300px;
+}

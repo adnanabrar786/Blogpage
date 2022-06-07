@@ -1,0 +1,33 @@
+.searchbar_container {
+  background-image: url("./images/searchbarImage.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 100%;
+  display: flex;
+}
+
+.searchbar_div {
+  display: flex;
+  border-radius: 16px;
+  margin-top: 130px;
+  margin-left: 235px;
+}
+
+.searchbar_paragraph {
+  background-color: white;
+  height: 40px;
+}
+.search_icon {
+  width: 30px;
+  height: 25px;
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
+.search_input {
+  width: 1000px;
+  height: 40px;
+  border: 5px solid white;
+  text-decoration: none;
+}

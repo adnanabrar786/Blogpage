@@ -1,0 +1,126 @@
+.all_article_container {
+    background-color: #F2E8E4;
+     padding-top: 20px;
+}
+.allArtricles_card_conatiner{
+    background-color: #F2E8E4;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+/* all_articles_main_heading  start*/
+
+.AllArticle_heading{
+    color: #DB022E;
+
+}
+
+/* all_articles_main_heading  end */
+
+.allArtricles_Sub_conatiner_one{
+    border-radius: 8px;
+    background-color: blue;
+    width: 520px;
+    height: 430px;
+
+    margin-bottom: 100px;
+
+    background-image: url("./images/backgroungImg.png");
+    background-color: #cccccc; 
+     height: 430px;
+     background-position: center; 
+     background-size: cover;
+}
+
+.allArtricles_Sub_conatiner_two{
+
+background-color: blueviolet;
+width: 520px;
+height: 430px;
+
+
+/* margin-left: 100px; */
+
+
+  
+}
+
+/* category_button */
+.category_button{
+    font-family: 'FONTSPRING DEMO - Greycliff CF';
+    font-style: normal;
+    color: #FFFFFF;
+
+    width: 120px;
+    height: 40px;
+    background-color: #DB022E;
+
+    margin-top: 200px;
+    margin-left: 85px;
+
+}
+
+/* category_paragraph_div */
+.category_paragraph_div{
+    border-radius: 8px 8px 0px 0px;
+    font-family: 'FONTSPRING DEMO - Greycliff CF';
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    background-color:#FFFFFF ;
+    width: 400px;
+    height: 190px;
+    margin-left: 60px;
+    padding-left: 10px;
+}
+
+.category_paragraph_div_heading{
+    font-size: 18px;
+     height: 12px; 
+    color: #2A2A2A;
+}
+
+.category_paragraph_div_paragraph{
+     height: 9x;
+     width: auto;
+}
+
+.category_paragraph_div_last_line{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.last_line_name{
+    color: #DB022E;
+}
+
+.last_line_date{
+    margin-left: 35px;
+}
+
+.last_line_icon_div{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 35px;
+
+}
+
+.last_line_icon{
+    width: 18px;
+    height: 18px;
+}
+
+.last_line_icon_share {
+    margin-left: 8px;
+    color: #DB022E;
+}
+
+
+
+
+

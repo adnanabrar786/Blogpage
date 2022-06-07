@@ -1,0 +1,86 @@
+.Rightwork_container {
+    background-image: url("../images/image.png");
+    height: 300px;
+    border-radius: 8px;
+    background-position: center;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-left: 85px;
+    width: 480px;
+
+}
+
+.Rightwork_button_div {
+    padding-top: 110px;
+    padding-right: 200px;
+}
+
+.Rightwork_button {
+    color: #FFFFFF;
+    background-color: #DB022E;
+    width: 110px;
+    height: 30px;
+}
+
+#button_blue {
+    color: #FFFFFF;
+    background-color: #1E4084;
+    width: 110px;
+    height: 30px;
+}
+
+.Rightwork_paragraph_container {
+    font-family: 'FONTSPRING DEMO - Greycliff CF';
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    padding-left: 20px;
+    background: #FFFFFF;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.Rightwork_paragraph_heading {
+    font-size: 21px;
+    line-height: 20px;
+}
+
+.Rightwork_paragraph_paragraph {
+    line-height: 15px;
+}
+
+
+.Rightwork_paragraph_last_line {
+    display: flex;
+    flex-direction: row;
+}
+
+.Rightwork_name {
+    color: #DB022E;
+}
+
+.Rightwork_date {
+    margin-left: 20px;
+}
+
+.Rightwork_icon_div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.Rightwork_icon_image {
+    width: 20px;
+    height: 20px;
+}
+
+.Rightwork_share {
+    color: #DB022E;
+    margin-left: 10px
+}
