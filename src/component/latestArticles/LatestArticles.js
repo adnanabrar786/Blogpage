@@ -20,8 +20,9 @@ const LatestArticles = () => {
 
   return (
     <div className="LatestArticles_container">
-      <div>
-        <h1 className="latest_article_heading">Latest Articles</h1>
+      <div className="LatestArticles_heading_main_div">
+        <div><h1 className="latest_article_heading">Latest Articles</h1></div>
+        <div className="LatestArticles_line_div"></div>
       </div>
 
       {latestArticle.map((val, index) => {

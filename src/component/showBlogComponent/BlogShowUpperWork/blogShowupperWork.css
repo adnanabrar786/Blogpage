@@ -1,0 +1,84 @@
+.BlogShowUpperWork_conatiner {
+  background-color: #f2e8e4;
+  font-family: "FONTSPRING DEMO - Greycliff CF";
+  font-style: normal;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.BlogShowUpperWork_bg_image {
+  background-image: url("../image/bgImage.png");
+  width: 100%;
+  height: 360px;
+  background-position: center;
+  background-size: cover;
+  z-index: -1;
+}
+
+.BlogShowUpperWork_articles_container {
+  /* margin: auto; */
+  width: 80%;
+  background-color: #ffffff;
+  background: #ffffff;
+  box-shadow: 4px 4px 60px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  height: auto;
+  text-align: center;
+  z-index: 1;
+  position: relative;
+  top: -220px;
+  left: 160px;
+}
+.BlogShowUpperWork_date {
+  padding-top: 50px;
+}
+.BlogShowUpperWork_heading {
+  width: 70%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+/* fetchin main div start */
+
+.blog_fetching_main_div {
+  width: 80%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.blog_fetching_main_div_paragraph_margin {
+  margin-top: 30px;
+}
+
+/* blog_fetching_image end */
+
+/* BlogShowUpperWork_paragraph_div_last_line  start*/
+
+.BlogShowUpperWork_paragraph_div_last_line {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  padding-top: 80px;
+}
+
+.BlogShowUpperWork__last_line_date {
+  margin-left: 80px;
+}
+
+.BlogShowUpperWork__last_line_icon_div {
+  display: flex;
+  align-items: center;
+  margin-left: 80px;
+}
+
+.BlogShowUpperWork__last_line_icon {
+  width: 25px;
+  height: 25px;
+}
+
+.BlogShowUpperWork_last_line_icon_share {
+  margin-left: 10px;
+}
+
+/* BlogShowUpperWork_paragraph_div_last_line  end*/

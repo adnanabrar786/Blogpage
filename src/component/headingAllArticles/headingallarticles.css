@@ -1,8 +1,8 @@
 .HeadingAllArticles_container {
     
     background-color: #F2E8E4;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .heading_main_div {
@@ -10,6 +10,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  margin-top: 60px;
  
   font-family: "FONTSPRING DEMO - Greycliff CF";
   font-style: normal;
