@@ -1,0 +1,72 @@
+#Scholar_latest_container{
+   padding-top:100px;
+}
+
+.ScholarlatestArticles_heading_main_div{
+    margin-left: 127px;
+    display: flex;
+    align-items: center;
+}
+
+.ScholarlatestArticles_article_heading{
+    color: #DB022E;
+}
+
+.ScholarlatestArticles_line_div{
+
+    background-color: #A6A6A6;
+    position: relative;
+    top: 0px;
+    left: 35px;
+    width: 940px;
+    height: 10px;
+}
+
+
+.ScholarlatestArticles_line_div:after{
+    content: "";
+    background-color: #DB022E;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 400px;
+    height: 100%;
+ }
+
+
+
+
+
+
+
+/* lastest article heading */
+
+.LatestArticles_heading_main_div{
+    margin-left: 127px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.latest_article_heading{
+   color: #DB022E;
+}
+
+.LatestArticles_line_div{
+   background-color: #A6A6A6;
+   position: relative;
+   top: 0px;
+   left: 35px;
+   width: 1085px;
+   height: 10px;
+}
+
+.LatestArticles_line_div:after{
+   content: "";
+   background-color: #DB022E;
+   position: absolute;
+   top: 0%;
+   left: 0%;
+   width: 400px;
+   height: 100%;
+}

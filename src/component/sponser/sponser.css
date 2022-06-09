@@ -1,0 +1,27 @@
+.sponser_container {
+    font-family: "FONTSPRING DEMO - Greycliff CF";
+  font-style: normal;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  background-color: #F2E8E4;
+  height: 210px;
+}
+
+.spoonser_paragraph {
+  margin-left: 80px;
+  text-align: left;
+  color: #000000;
+}
+
+.sponser_add {
+    font-weight: 200px;
+  text-align: left;
+  color: #ffffff;
+  background-color: #A6A6A6;
+  height: 110px;
+  width: 90%;
+  margin-left: 80px;
+}

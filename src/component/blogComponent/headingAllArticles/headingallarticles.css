@@ -1,0 +1,40 @@
+.HeadingAllArticles_container {
+    
+    background-color: #F2E8E4;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.heading_main_div {
+ 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 60px;
+ 
+  font-family: "FONTSPRING DEMO - Greycliff CF";
+  font-style: normal;
+  font-size: 30px;
+  font-weight: 100px;
+  color: #C4C4C4;
+}
+
+.All_heading {
+    color: #DB022E;
+    border-bottom: 10px solid #DB022E ;
+    padding-top: 10px;
+}
+
+.Category_heading:hover {
+    color: #DB022E;
+    border-bottom: 1px solid #DB022E ;
+}
+.heading_hr {
+    width: 84%;
+    padding-top: 20px;
+}
+
+.power {
+    font-size: 15px;
+}
+

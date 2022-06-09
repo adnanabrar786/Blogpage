@@ -1,0 +1,56 @@
+/* realated  scholar post 's heading */
+
+.ScholarShip_heading_main_div {
+  margin-left: 112px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 80px;
+}
+
+.ScholarShip_article_heading {
+  color: #db022e;
+}
+
+.ScholarShip_line_div {
+  background-color: #a6a6a6;
+  position: relative;
+  top: 0px;
+  left: 25px;
+  width: 948px;
+  height: 10px;
+}
+
+.ScholarShip_line_div:after {
+  content: "";
+  background-color: #db022e;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 400px;
+  height: 100%;
+}
+
+/* for last line */
+
+#scholarship_paragraph_div_last_line {
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* for Category button */
+
+#schoilarShip_category_button {
+  font-family: "FONTSPRING DEMO - Greycliff CF";
+  font-style: normal;
+  color: #ffffff;
+
+  width: 100px;
+  height: 35px;
+  background-color: #db022e;
+  border: 5px solid #db022e;
+
+  margin-top: 115px;
+  margin-left: 35px;
+}

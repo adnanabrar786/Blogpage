@@ -1,0 +1,20 @@
+.share_WhiteIcon_div {
+ background-color: brown;
+ width: 60px;
+ height: 60px;
+ border-radius: 50%;
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: center;
+ position: absolute;
+ left: 1394px;
+ top: 450px;
+ z-index: 3;
+
+}
+
+.share_WhiteIcon_img {
+ width: 30px;
+ height: 30px;
+}

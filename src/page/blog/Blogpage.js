@@ -1,11 +1,11 @@
 import React from "react";
-import Allarticles from "../../component/Allarticles/Allarticles";
-import CategaryArticles from "../../component/categoriesArticle/CategaryArticles";
-import FooterNumber from "../../component/footerNumber/FooterNumber";
-import HeadingAllArticles from "../../component/headingAllArticles/HeadingAllArticles";
-import LatestArticles from "../../component/latestArticles/LatestArticles";
-import Searchbar from "../../component/searchbar/Searchbar";
-import Sponser from "../../component/sponer/Sponser";
+import Allarticles from "../../component/blogComponent/Allarticles/Allarticles";
+import CategaryArticles from "../../component/blogComponent/categoriesArticle/CategaryArticles";
+import FooterNumber from "../../component/blogComponent/footerNumber/FooterNumber";
+import HeadingAllArticles from "../../component/blogComponent/headingAllArticles/HeadingAllArticles";
+import LatestArticles from "../../component/blogComponent/latestArticles/LatestArticles";
+import Searchbar from "../../component/blogComponent/searchbar/Searchbar";
+import Sponser from "../../component/sponser/Sponser";
 
 const Blogpage = () => {
   return (
