@@ -1,3 +1,6 @@
+@import url(//db.onlinewebfonts.com/c/a1caa95569aad7c1dd438b6b57c41c3d?family=Greycliff+CF+Extra+Bold);
+
+
 .searchbar_container {
   background-color: #f2e8e4;
   height: 550px;
@@ -6,10 +9,8 @@
 .searchbar_bg_container {
   background-image: url("./images/searchbarImage.png");
   background-size: cover;
-  /* background-repeat: no-repeat; */
   background-position: center;
   height: 360px;
-  width: 100%;
   display: flex;
   z-index: 1;
 
@@ -18,10 +19,11 @@
 .searchbar_div {
   display: flex;
   border-radius: 16px;
-  width: auto;
+  width:1600px ;
   margin-top: 70px;
-  margin-left: 240px;
+  margin-left: 185px;
   z-index: 1;
+  cursor: pointer;
 }
 
 .searchbar_bg_imgage {
@@ -36,42 +38,46 @@
 }
 
 .search_input {
-  width: 1000px;
+  width: 1200px;
   height: 40px;
-  border: 5px solid white;
+  border: 1px solid white;
+  border-radius: 6px;
+  box-shadow: 4px 4px 60px rgba(42, 42, 42, 0.25);
   text-decoration: none;
+  cursor: pointer;
+  outline: none;
 }
+
 
 /* searchbar_paragraph_container */
 .searchbar_para_container {
-  font-family: "FONTSPRING DEMO - Greycliff CF";
-  font-style: normal;
+  font-family: "Greycliff CF Extra Bold";
   background: #ffffff;
   border: 5px solid #ffffff;
   border-radius: 4px;
-  width: 700px;
-  height: 325px;
+  width: 650px;
+  height: 350px;
   z-index: 2;
   position: absolute;
   top: 200px;
-  left: 240px;
+  left: 187px;
   display: flex;
   flex-direction: column;
   padding-top: 15px;
 }
 
-
-
 .searchbar_para_size{
-  margin-left: 80px;
-  width: 70%;
+  margin-left: 50px;
+  width: 75%;
 }
 .searchbar_heading{
-  font-size: 26px;
+  font-size: 28px;
+  width: 90%;
 }
 
 .searchbar_paragraph{
   font-size: 15px;
+  margin-top: 20px;
 }
 
 .searchbar_button {
@@ -80,4 +86,10 @@
   border-radius: 4px;
   width: 120px;
   height: 30px;
+  cursor: pointer;
+  margin-top: 25px;
+}
+
+.searchbar_button:focus {
+  border: 2px solid #000000;
 }

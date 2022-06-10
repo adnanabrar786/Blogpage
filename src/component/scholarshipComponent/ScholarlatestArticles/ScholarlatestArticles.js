@@ -36,6 +36,7 @@ const ScholarlatestArticles = () => {
 
        const name = val.name;
        const email = val.email ;
+       
         return (
           <div className="LatestArticles_sub_container" key={index}>
             {/* left imeage work */}

@@ -35,8 +35,7 @@
 }
 
 .Rightwork_paragraph_container {
-    font-family: 'FONTSPRING DEMO - Greycliff CF';
-    font-style: normal;
+    font-family: "Greycliff CF Extra Bold"; 
     display: flex;
     flex-direction: column;
     width: 350px;

@@ -1,3 +1,6 @@
+@import url(//db.onlinewebfonts.com/c/a1caa95569aad7c1dd438b6b57c41c3d?family=Greycliff+CF+Extra+Bold);
+
+
 .LatestArticles_container {
     background-color:#F2E8E4 ;
     padding-top: 20px;
@@ -12,26 +15,24 @@
      
 }
 
-.latest_article_heading{
-    color: #DB022E;
-}
 
-.LatestArticles_line_div{
+
+.AllArticles_line_div_{
     background-color: #A6A6A6;
     position: relative;
-    top: 0px;
+    top: 4px;
     left: 35px;
-    width: 1085px;
-    height: 10px;
+    width: 1133px;
+    height: 8px;
 }
 
-.LatestArticles_line_div:after{
+.AllArticles_line_div_:after{
     content: "";
     background-color: #DB022E;
     position: absolute;
     top: 0%;
     left: 0%;
-    width: 400px;
+    width: 220px;
     height: 100%;
 }
 
@@ -65,7 +66,8 @@
 .pargraph_category {
     margin-left: 120px;
     padding-left: 10px;
-    font-family: 'FONTSPRING DEMO - Greycliff CF';
+    /* font-family: 'FONTSPRING DEMO - Greycliff CF'; */
+    font-family: "Greycliff CF Extra Bold"; 
     font-style: normal;
     color: #2A2A2A;
     background-color: aliceblue;

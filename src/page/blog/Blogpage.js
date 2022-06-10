@@ -12,12 +12,6 @@ const Blogpage = () => {
     <div>
       <Searchbar/>
       <HeadingAllArticles/>
-      <LatestArticles />
-      <Allarticles/>
-      <Sponser />
-      <CategaryArticles />
-      <Sponser />
-      <FooterNumber/>
     </div>
   );
 };

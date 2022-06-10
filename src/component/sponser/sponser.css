@@ -1,5 +1,8 @@
+@import url(//db.onlinewebfonts.com/c/a1caa95569aad7c1dd438b6b57c41c3d?family=Greycliff+CF+Extra+Bold);
+
+
 .sponser_container {
-    font-family: "FONTSPRING DEMO - Greycliff CF";
+  font-family: "Greycliff CF Extra Bold";
   font-style: normal;
   margin: 0px;
   padding: 0px;
@@ -17,7 +20,7 @@
 }
 
 .sponser_add {
-    font-weight: 200px;
+  font-weight: 200px;
   text-align: left;
   color: #ffffff;
   background-color: #A6A6A6;

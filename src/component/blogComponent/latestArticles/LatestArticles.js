@@ -21,8 +21,8 @@ const LatestArticles = () => {
   return (
     <div className="LatestArticles_container">
       <div className="LatestArticles_heading_main_div">
-        <div><h1 className="latest_article_heading">Latest Articles</h1></div>
-        <div className="LatestArticles_line_div"></div>
+        <div><h1 className="latest_article_line_heading">Latest Articles</h1></div>
+        <div className="LatestArticles_line_div_"></div>
       </div>
 
       {latestArticle.map((val, index) => {
