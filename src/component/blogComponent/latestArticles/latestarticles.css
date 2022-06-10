@@ -2,22 +2,21 @@
 
 
 .LatestArticles_container {
-    background-color:#F2E8E4 ;
+    background-color: #F2E8E4;
     padding-top: 20px;
 }
 
 /* lastest article heading */
 
-.LatestArticles_heading_main_div{
-     margin-left: 127px;
-     display: flex;
-     align-items: center;
-     
+.LatestArticles_heading_main_div {
+    margin-left: 127px;
+    display: flex;
+    align-items: center;
 }
-
-
-
-.AllArticles_line_div_{
+.latest_article_line_heading{
+    color: #DB022E;
+}
+.LatestArticles_line_div_ {
     background-color: #A6A6A6;
     position: relative;
     top: 4px;
@@ -26,7 +25,7 @@
     height: 8px;
 }
 
-.AllArticles_line_div_:after{
+.LatestArticles_line_div_:after {
     content: "";
     background-color: #DB022E;
     position: absolute;
@@ -64,50 +63,56 @@
 }
 
 .pargraph_category {
+    cursor: pointer;
     margin-left: 120px;
     padding-left: 10px;
     /* font-family: 'FONTSPRING DEMO - Greycliff CF'; */
-    font-family: "Greycliff CF Extra Bold"; 
+    font-family: "Greycliff CF Extra Bold";
     font-style: normal;
     color: #2A2A2A;
     background-color: aliceblue;
     height: 230px;
     width: 500px;
     align-items: center;
-    border-radius:  8px;
+    border-radius: 8px;
 }
 
-.pargraph_category_heading{
+.pargraph_category_heading {
     font-size: 25px;
 }
-.category_button_div{
+
+.category_button_div {
     padding-top: 370px;
 }
 
 .category_button_ {
+    cursor: pointer;
     color: #FFFFFF;
     background: #DB022E;
     margin-left: 150px;
     width: 125px;
     height: 35px;
-    
+
 }
 
 .icon_div {
- margin-left: 30px;
+    margin-left: 30px;
 }
+
 .effiko_name {
     color: #DB022E;
     margin-left: 10px;
 }
 
-.share_name{
+.share_name {
     color: #DB022E;
     margin-left: 10px;
 }
+
 .lastline_category_date {
     margin-left: 40px;
 }
+
 .category_share_icon {
     width: 18px;
     height: 18px;

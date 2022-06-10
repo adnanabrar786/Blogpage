@@ -29,10 +29,19 @@
     text-align: center;
 }
 
+.box:hover{
+    background-color: #DB022E;
+    color: #F2E8E4;
+}
+
 .prev {
    margin-right: 60px;
    color: #A6A6A6;
    font-size: 30px;  
+}
+
+.prev:hover{
+    color: #DB022E;
 }
 
 .next {

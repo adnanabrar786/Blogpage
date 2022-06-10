@@ -1,7 +1,23 @@
-import React from "react";
+import React ,{useState} from "react";
 import "./footernumber.css";
 
 const FooterNumber = () => {
+// const [OneFooter, setONeFooter] = useState("");
+// const [TwoFooter, setTwoFooter] = useState("");
+// const [ThreeFooter, setThreeFooter] = useState("");
+// const [FourFooter, setFourFooter] = useState("");
+// const [FiveFooter, setFiveFooter] = useState("");
+// const [SixFooter, setSixFooter] = useState("");
+// const [SevenFooter, setSevenFooter] = useState("");
+// const [EightFooter, setEightFooter] = useState("");
+// const [NineFooter, setNineFooter] = useState("");
+// const [TenFooter, setTenFooter] = useState("");
+// const [ElevenFooter, setElevenFooter] = useState("");
+// const [PrevFooter, setPrevFooter] = useState("");
+// const [NextFooter, setNextFooter] = useState("");
+
+
+
   return (
     <div className="fotter_number_container">
       <div className="grey_line"></div>

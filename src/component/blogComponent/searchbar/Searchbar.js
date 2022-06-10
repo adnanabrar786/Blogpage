@@ -25,7 +25,7 @@ const Searchbar = () => {
       </div>
       {/* in below div two classe apply one for size one for styling own element */}
       <div className="searchbar_para_container">
-        <p className="searchbar_date searchbar_para_size ">May 15 2022</p>
+        <p className="searchbar_para_size ">May 15 2022</p>
         <h1 className="searchbar_heading searchbar_para_size">
           Lorem ipsum dolor sit amet,consectetur adipiscing elit.
         </h1>

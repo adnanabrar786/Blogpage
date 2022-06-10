@@ -26,12 +26,12 @@
     
 }
 
-.latest_article_line_heading{
+.AllArticle_heading{
    color: #DB022E;
    font-size: 40px;
 }
 
-.LatestArticles_line_div_{
+.AllArticles_line_div_{
    background-color: #A6A6A6;
    position: relative;
    top: 4px;
@@ -40,7 +40,7 @@
    height: 8px;
 }
 
-.LatestArticles_line_div_:after{
+.AllArticles_line_div_:after{
    content: "";
    background-color: #DB022E;
    position: absolute;

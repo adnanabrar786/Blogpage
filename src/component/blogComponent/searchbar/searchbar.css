@@ -30,16 +30,11 @@
   background-color: white;
   height: 40px;
 }
-.search_icon {
-  width: 30px;
-  height: 25px;
-  padding-top: 5px;
-  padding-left: 15px;
-}
+
 
 .search_input {
   width: 1200px;
-  height: 40px;
+  height: 45px;
   border: 1px solid white;
   border-radius: 6px;
   box-shadow: 4px 4px 60px rgba(42, 42, 42, 0.25);
@@ -67,20 +62,24 @@
 }
 
 .searchbar_para_size{
+  cursor: pointer;
   margin-left: 50px;
   width: 75%;
 }
 .searchbar_heading{
   font-size: 28px;
   width: 90%;
+  cursor: pointer;
 }
 
 .searchbar_paragraph{
   font-size: 15px;
   margin-top: 20px;
+  cursor: pointer;
 }
 
 .searchbar_button {
+  cursor: pointer;
   color: #ffffff;
   background: #2a2a2a;
   border-radius: 4px;
